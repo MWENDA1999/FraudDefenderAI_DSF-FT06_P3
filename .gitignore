@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# Data and datasets
+/data/
+*.csv
+*.xls
+*.xlsx
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info
+pip-wheel-metadata/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
